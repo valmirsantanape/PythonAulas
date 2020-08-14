@@ -2,7 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a08c82c8-3f88-40d1-8702-3c2b3cd63808" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/emoji-0.6.0-py3.8.egg-info/PKG-INFO" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/emoji-0.6.0-py3.8.egg-info/SOURCES.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/emoji-0.6.0-py3.8.egg-info/dependency_links.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/emoji-0.6.0-py3.8.egg-info/installed-files.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/emoji-0.6.0-py3.8.egg-info/requires.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/emoji-0.6.0-py3.8.egg-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/emoji-0.6.0-py3.8.egg-info/zip-safe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/emoji/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/emoji/core.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/emoji/unicode_codes.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/modulos.py" beforeDir="false" afterPath="$PROJECT_DIR$/modulos.py" afterDir="false" />
     </list>
@@ -10,6 +19,9 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="PythonAulas" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -22,15 +34,19 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1g4Q5Rh9GQJ6BMoKbSsBaMG04rg" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ExercicioPython" />
   </component>
   <component name="RunManager">
     <configuration name="modulos" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -73,22 +89,29 @@
     </task>
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
-    <state width="1345" height="189" key="GridCell.Tab.0.bottom" timestamp="1597372385671">
+    <state x="463" y="139" key="FileChooserDialogImpl" timestamp="1597374086710">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1345" height="189" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1597372385671" />
-    <state width="1345" height="189" key="GridCell.Tab.0.center" timestamp="1597372385671">
+    <state x="463" y="139" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1597374086710" />
+    <state width="1345" height="189" key="GridCell.Tab.0.bottom" timestamp="1597374088011">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1345" height="189" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1597372385671" />
-    <state width="1345" height="189" key="GridCell.Tab.0.left" timestamp="1597372385671">
+    <state width="1345" height="189" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1597374088011" />
+    <state width="1345" height="189" key="GridCell.Tab.0.center" timestamp="1597374088010">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1345" height="189" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1597372385671" />
-    <state width="1345" height="189" key="GridCell.Tab.0.right" timestamp="1597372385671">
+    <state width="1345" height="189" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1597374088010" />
+    <state width="1345" height="189" key="GridCell.Tab.0.left" timestamp="1597374088010">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1345" height="189" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1597372385671" />
+    <state width="1345" height="189" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1597374088010" />
+    <state width="1345" height="189" key="GridCell.Tab.0.right" timestamp="1597374088011">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1345" height="189" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1597374088011" />
   </component>
 </project>
