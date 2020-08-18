@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a08c82c8-3f88-40d1-8702-3c2b3cd63808" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="a08c82c8-3f88-40d1-8702-3c2b3cd63808" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,7 +33,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ExercicioPython" />
   </component>
   <component name="RunManager" selected="Python.aula009">
     <configuration name="aula009" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -126,10 +124,10 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="463" y="139" key="FileChooserDialogImpl" timestamp="1597374086710">
+    <state x="463" y="139" key="FileChooserDialogImpl" timestamp="1597711203108">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="463" y="139" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1597374086710" />
+    <state x="463" y="139" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1597711203108" />
     <state width="727" height="186" key="GridCell.Tab.0.bottom" timestamp="1597536206729">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
@@ -146,5 +144,9 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state width="727" height="186" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1597536206729" />
+    <state x="719" y="208" key="com.intellij.ide.util.TipDialog" timestamp="1597711161987">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="719" y="208" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1597711161987" />
   </component>
 </project>
