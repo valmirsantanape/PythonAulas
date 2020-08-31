@@ -2,17 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a08c82c8-3f88-40d1-8702-3c2b3cd63808" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/easy-install.pth" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/easy-install.pth" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/emoji-0.6.0-py3.8.egg-info/PKG-INFO" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/emoji-0.6.0-py3.8.egg-info/SOURCES.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/emoji-0.6.0-py3.8.egg-info/dependency_links.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/emoji-0.6.0-py3.8.egg-info/installed-files.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/emoji-0.6.0-py3.8.egg-info/requires.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/emoji-0.6.0-py3.8.egg-info/top_level.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/emoji-0.6.0-py3.8.egg-info/zip-safe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/emoji/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/emoji/core.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/emoji/unicode_codes.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coresterminal.py" beforeDir="false" afterPath="$PROJECT_DIR$/coresterminal.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,11 +30,12 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../ExercicioPython" />
   </component>
-  <component name="RunManager" selected="Python.aula009">
+  <component name="RunManager" selected="Python.coresterminal">
     <configuration name="aula009" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonAulas" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -57,6 +49,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aula009.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="coresterminal" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonAulas" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/coresterminal.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -109,6 +122,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.coresterminal" />
         <item itemvalue="Python.aula009" />
         <item itemvalue="Python.manipulandotexto" />
         <item itemvalue="Python.modulos" />
@@ -137,25 +151,29 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="463" y="139" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1598582412356" />
-    <state width="727" height="186" key="GridCell.Tab.0.bottom" timestamp="1597536206729">
+    <state width="656" height="177" key="GridCell.Tab.0.bottom" timestamp="1598909570843">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="727" height="186" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1597536206729" />
-    <state width="727" height="186" key="GridCell.Tab.0.center" timestamp="1597536206728">
+    <state width="656" height="177" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1598909570843" />
+    <state width="656" height="177" key="GridCell.Tab.0.center" timestamp="1598909570843">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="727" height="186" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1597536206728" />
-    <state width="727" height="186" key="GridCell.Tab.0.left" timestamp="1597536206728">
+    <state width="656" height="177" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1598909570843" />
+    <state width="656" height="177" key="GridCell.Tab.0.left" timestamp="1598909570843">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="727" height="186" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1597536206728" />
-    <state width="727" height="186" key="GridCell.Tab.0.right" timestamp="1597536206729">
+    <state width="656" height="177" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1598909570843" />
+    <state width="656" height="177" key="GridCell.Tab.0.right" timestamp="1598909570843">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="727" height="186" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1597536206729" />
+    <state width="656" height="177" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1598909570843" />
     <state x="719" y="208" key="com.intellij.ide.util.TipDialog" timestamp="1597711161987">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="719" y="208" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1597711161987" />
+    <state x="691" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1598908068544">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="691" y="89" width="672" height="678" key="search.everywhere.popup/0.0.1366.768@0.0.1366.768" timestamp="1598908068544" />
   </component>
 </project>
