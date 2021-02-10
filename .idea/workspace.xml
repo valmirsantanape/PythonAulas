@@ -33,7 +33,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ExercicioPython" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunManager" selected="Python.aula019-dicionario">
@@ -170,26 +170,26 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1612655839626">
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1612921514120">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1612655839626" />
-    <state width="705" height="163" key="GridCell.Tab.0.bottom" timestamp="1612920629778">
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1612921514120" />
+    <state width="705" height="163" key="GridCell.Tab.0.bottom" timestamp="1612921515431">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="705" height="163" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1612920629778" />
-    <state width="705" height="163" key="GridCell.Tab.0.center" timestamp="1612920629777">
+    <state width="705" height="163" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1612921515431" />
+    <state width="705" height="163" key="GridCell.Tab.0.center" timestamp="1612921515431">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="705" height="163" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1612920629777" />
-    <state width="705" height="163" key="GridCell.Tab.0.left" timestamp="1612920629777">
+    <state width="705" height="163" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1612921515431" />
+    <state width="705" height="163" key="GridCell.Tab.0.left" timestamp="1612921515431">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="705" height="163" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1612920629777" />
-    <state width="705" height="163" key="GridCell.Tab.0.right" timestamp="1612920629777">
+    <state width="705" height="163" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1612921515431" />
+    <state width="705" height="163" key="GridCell.Tab.0.right" timestamp="1612921515431">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="705" height="163" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1612920629777" />
+    <state width="705" height="163" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1612921515431" />
     <state x="184" y="9" key="SettingsEditor" timestamp="1612920077388">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
