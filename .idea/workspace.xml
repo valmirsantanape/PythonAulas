@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a08c82c8-3f88-40d1-8702-3c2b3cd63808" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/aula020-funcoes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula020a.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/PythonAulas.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PythonAulas.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula019-dicionario.py" beforeDir="false" afterPath="$PROJECT_DIR$/aula019-dicionario.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,31 +36,10 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ExercicioPython" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/aula020-funcoes.py" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Python.aula019-dicionario">
-    <configuration name="aula009" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PythonAulas" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aula009.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.aula020a">
     <configuration name="aula013-for" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonAulas" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -100,7 +82,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="aula019-dicionario" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="aula020-funcoes.py" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonAulas" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -112,7 +94,28 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aula019-dicionario.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aula020-funcoes.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="aula020a" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonAulas" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aula020a.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -144,11 +147,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.aula019-dicionario" />
+        <item itemvalue="Python.aula020a" />
+        <item itemvalue="Python.aula020-funcoes.py" />
         <item itemvalue="Python.aula017-listasII" />
         <item itemvalue="Python.aula013-for" />
         <item itemvalue="Python.coresterminal" />
-        <item itemvalue="Python.aula009" />
       </list>
     </recent_temporary>
   </component>
@@ -166,33 +169,18 @@
     </task>
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1612921514120">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1612921514120" />
-    <state width="705" height="163" key="GridCell.Tab.0.bottom" timestamp="1612921515431">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="705" height="163" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1612921515431" />
-    <state width="705" height="163" key="GridCell.Tab.0.center" timestamp="1612921515431">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="705" height="163" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1612921515431" />
-    <state width="705" height="163" key="GridCell.Tab.0.left" timestamp="1612921515431">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="705" height="163" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1612921515431" />
-    <state width="705" height="163" key="GridCell.Tab.0.right" timestamp="1612921515431">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="705" height="163" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1612921515431" />
-    <state x="184" y="9" key="SettingsEditor" timestamp="1612920077388">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="184" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1612920077388" />
   </component>
 </project>
